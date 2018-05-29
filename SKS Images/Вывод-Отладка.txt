@@ -1,0 +1,1085 @@
+﻿Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Mono\lib\mono\2.0\UnityScript.Lang.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Mono\lib\mono\2.0\Boo.Lang.Parser.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Mono\lib\mono\2.0\Boo.Lang.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Mono\lib\mono\2.0\Boo.Lang.Compiler.dll
+Loaded: Модуль: C:\Program Files (x86)\Microsoft Visual Studio Tools for Unity\15.0\Editor\SyntaxTree.VisualStudio.Unity.Messaging.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\UnityVR\Editor\UnityEditor.iOS.Extensions.Xcode.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\Unity.IvyParser.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\Unity.Legacy.NRefactory.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Mono\lib\mono\2.0\UnityScript.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\Unity.SerializationLogic.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\Unity.Cecil.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Mono\lib\mono\2.0\System.Xml.Linq.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\ExCSS.Unity.dll
+Loaded: Модуль: C:\Program Files (x86)\Microsoft Visual Studio Tools for Unity\15.0\Editor\SyntaxTree.VisualStudio.Unity.Bridge.dll
+Loaded: Модуль: C:\Users\Dima\AppData\Local\Unity\cache\packages\packages.unity.com\com.unity.standardevents@1.0.13\UnityEngine.StandardEvents.dll
+Loaded: Модуль: C:\Users\Dima\AppData\Local\Unity\cache\packages\packages.unity.com\com.unity.purchasing@2.0.1\Editor\UnityEditor.Purchasing.dll
+Loaded: Модуль: C:\Users\Dima\AppData\Local\Unity\cache\packages\packages.unity.com\com.unity.purchasing@2.0.1\UnityEngine.Purchasing.dll
+Loaded: Модуль: C:\Users\Dima\AppData\Local\Unity\cache\packages\packages.unity.com\com.unity.analytics@2.0.16\Editor\UnityEditor.Analytics.dll
+Loaded: Модуль: C:\Users\Dima\AppData\Local\Unity\cache\packages\packages.unity.com\com.unity.analytics@2.0.16\UnityEngine.Analytics.dll
+Loaded: Модуль: C:\Users\Dima\AppData\Local\Unity\cache\packages\packages.unity.com\com.unity.ads@2.0.7\Editor\UnityEditor.Advertisements.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\PlaybackEngines\windowsstandalonesupport\UnityEditor.WindowsStandalone.Extensions.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\PlaybackEngines\LinuxStandaloneSupport\UnityEditor.LinuxStandalone.Extensions.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\PlaybackEngines\WebGLSupport\UnityEditor.WebGL.Extensions.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEditor.Graphs.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\UnityVR\Editor\UnityEditor.VR.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\UnitySpatialTracking\RuntimeEditor\UnityEngine.SpatialTracking.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\UnitySpatialTracking\Editor\UnityEditor.SpatialTracking.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\UnityHoloLens\RuntimeEditor\UnityEngine.HoloLens.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\UnityHoloLens\Editor\UnityEditor.HoloLens.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\UnityGoogleAudioSpatializer\RuntimeEditor\UnityEngine.GoogleAudioSpatializer.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\UnityGoogleAudioSpatializer\Editor\UnityEditor.GoogleAudioSpatializer.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\UIAutomation\Editor\UnityEditor.UIAutomation.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\UIAutomation\UnityEngine.UIAutomation.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\TreeEditor\Editor\UnityEditor.TreeEditor.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\Timeline\Editor\UnityEditor.Timeline.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\Timeline\RuntimeEditor\UnityEngine.Timeline.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\TestRunner\net35\unity-custom\nunit.framework.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\TestRunner\UnityEngine.TestRunner.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\TestRunner\Editor\UnityEditor.TestRunner.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\Networking\Editor\UnityEditor.Networking.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\Networking\UnityEngine.Networking.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\GUISystem\Editor\UnityEditor.UI.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\GUISystem\UnityEngine.UI.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\PackageManager\Unity\PackageManager\2018.1.1\Unity.PackageManager.dll
+Loaded: Модуль: C:\Users\Dima\Documents\SKS Images\Library\ScriptAssemblies\UnityEditor.StandardEvents.dll
+Loaded: Модуль: C:\Users\Dima\Documents\SKS Images\Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll
+Loaded: Модуль: C:\Users\Dima\Documents\SKS Images\Library\ScriptAssemblies\Assembly-CSharp.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\Unity.DataContract.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Mono\lib\mono\2.0\System.Core.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Mono\lib\mono\2.0\I18N.CJK.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Mono\lib\mono\2.0\I18N.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\Unity.Locator.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEditor.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.XRModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.WindModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.WebModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.VideoModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.VehiclesModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.VRModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.UnityWebRequestWWWModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.UnityWebRequestTextureModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.UnityWebRequestAudioModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.UnityWebRequestAssetBundleModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.UnityWebRequestModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.UnityConnectModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.UnityAnalyticsModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.UmbraModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.UNETModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.UIElementsModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.UIModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.TimelineModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.TilemapModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.TextRenderingModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.TerrainPhysicsModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.TerrainModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.TLSModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.SubstanceModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.StyleSheetsModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.SpriteShapeModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.SpriteMaskModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.SpatialTrackingModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.SharedInternalsModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.ScreenCaptureModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.Physics2DModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.PhysicsModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.PerformanceReportingModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.ParticlesLegacyModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.ParticleSystemModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.JSONSerializeModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.InputModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.ImageConversionModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.IMGUIModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.HotReloadModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.GridModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.GameCenterModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.FacebookModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.DirectorModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.CrashReportingModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.CoreModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.ClusterRendererModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.ClusterInputModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.CloudWebServicesModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.ClothModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.BaselibModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.AudioModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.AssetBundleModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.AnimationModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.AccessibilityModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.ARModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.AIModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Mono\lib\mono\2.0\Mono.Security.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Mono\lib\mono\2.0\System.Configuration.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Mono\lib\mono\2.0\System.Xml.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Mono\lib\mono\2.0\System.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Mono\lib\mono\2.0\mscorlib.dll
+Поток 0x2fe105c0 завершился с кодом 0 (0x0).
+Поток 0x333ca8a0 завершился с кодом 0 (0x0).
+Поток 0x333ca5c0 завершился с кодом 0 (0x0).
+Поток 0x333ca730 завершился с кодом 0 (0x0).
+Поток 0x2fe10a10 завершился с кодом 0 (0x0).
+Поток 0x2fe108a0 завершился с кодом 0 (0x0).
+Поток 0x2fe10730 завершился с кодом 0 (0x0).
+Поток 0x2ff2a8a0 завершился с кодом 0 (0x0).
+Поток 0x2f814cf0 завершился с кодом 0 (0x0).
+Поток 0x2f92b8a0 завершился с кодом 0 (0x0).
+Поток 0x2f9adcf0 завершился с кодом 0 (0x0).
+Поток 0x2f9b1730 завершился с кодом 0 (0x0).
+Поток 0x2f566b80 завершился с кодом 0 (0x0).
+Поток 0x2f6b6450 завершился с кодом 0 (0x0).
+Поток 0x2f70be60 завершился с кодом 0 (0x0).
+Поток 0x19e08cf0 завершился с кодом 0 (0x0).
+Поток 0x19e088a0 завершился с кодом 0 (0x0).
+Поток 0x2f59f000 завершился с кодом 0 (0x0).
+Поток 0x2fdf08a0 завершился с кодом 0 (0x0).
+Поток 0x2fa492e0 завершился с кодом 0 (0x0).
+Поток 0x2f7378a0 завершился с кодом 0 (0x0).
+Поток 0x2fe3a5c0 завершился с кодом 0 (0x0).
+Поток 0x2fa43b80 завершился с кодом 0 (0x0).
+Поток 0x2fd2e8a0 завершился с кодом 0 (0x0).
+Поток 0x2ff83e60 завершился с кодом 0 (0x0).
+Поток 0x2ff22e60 завершился с кодом 0 (0x0).
+Поток 0x2ff22a10 завершился с кодом 0 (0x0).
+Поток 0x2f668450 завершился с кодом 0 (0x0).
+Поток 0x2f52fcf0 завершился с кодом 0 (0x0).
+Поток 0x2fc19450 завершился с кодом 0 (0x0).
+Поток 0x2fc19000 завершился с кодом 0 (0x0).
+Поток 0x2f550a10 завершился с кодом 0 (0x0).
+Поток 0x2f550000 завершился с кодом 0 (0x0).
+Поток 0x2f83dcf0 завершился с кодом 0 (0x0).
+Поток 0x2f83d5c0 завершился с кодом 0 (0x0).
+Поток 0x2f8732e0 завершился с кодом 0 (0x0).
+Поток 0x2f79a5c0 завершился с кодом 0 (0x0).
+Поток 0x35981730 завершился с кодом 0 (0x0).
+Поток 0x333caa10 завершился с кодом 0 (0x0).
+Поток 0x2fc19cf0 завершился с кодом 0 (0x0).
+Поток 0x2fc19b80 завершился с кодом 0 (0x0).
+Поток 0x2fdf0e60 завершился с кодом 0 (0x0).
+Поток 0x2fdf0000 завершился с кодом 0 (0x0).
+Поток 0x2fe3a450 завершился с кодом 0 (0x0).
+Поток 0x2fe74b80 завершился с кодом 0 (0x0).
+Поток 0x2ff222e0 завершился с кодом 0 (0x0).
+Поток 0x2ff2a730 завершился с кодом 0 (0x0).
+Поток 0x2ff835c0 завершился с кодом 0 (0x0).
+Поток 0x2ff83170 завершился с кодом 0 (0x0).
+Поток 0x2f83d450 завершился с кодом 0 (0x0).
+Поток 0x2f83d000 завершился с кодом 0 (0x0).
+Поток 0x2f92b450 завершился с кодом 0 (0x0).
+Поток 0x2f9adb80 завершился с кодом 0 (0x0).
+Поток 0x2f9b1450 завершился с кодом 0 (0x0).
+Поток 0x2fa438a0 завершился с кодом 0 (0x0).
+Поток 0x2fa495c0 завершился с кодом 0 (0x0).
+Поток 0x2f52f8a0 завершился с кодом 0 (0x0).
+Поток 0x2f550730 завершился с кодом 0 (0x0).
+Поток 0x2f5502e0 завершился с кодом 0 (0x0).
+Поток 0x2f59f5c0 завершился с кодом 0 (0x0).
+Поток 0x2f59f170 завершился с кодом 0 (0x0).
+Поток 0x2f6b6170 завершился с кодом 0 (0x0).
+Поток 0x2f70b5c0 завершился с кодом 0 (0x0).
+Поток 0x2f737000 завершился с кодом 0 (0x0).
+Поток 0x2f79a450 завершился с кодом 0 (0x0).
+Поток 0x19e08e60 завершился с кодом 0 (0x0).
+Поток 0x19e08730 завершился с кодом 0 (0x0).
+Поток 0x2f821e60 завершился с кодом 0 (0x0).
+Поток 0x2f821a10 завершился с кодом 0 (0x0).
+Поток 0x2fdd6170 завершился с кодом 0 (0x0).
+Поток 0x2fe33cf0 завершился с кодом 0 (0x0).
+Поток 0x358ed170 завершился с кодом 0 (0x0).
+Поток 0x35981450 завершился с кодом 0 (0x0).
+Поток 0x30021cf0 завершился с кодом 0 (0x0).
+Поток 0x300212e0 завершился с кодом 0 (0x0).
+Поток 0x2fdd6cf0 завершился с кодом 0 (0x0).
+Поток 0x2fdd68a0 завершился с кодом 0 (0x0).
+Поток 0x2fe33a10 завершился с кодом 0 (0x0).
+Поток 0x2fe335c0 завершился с кодом 0 (0x0).
+Поток 0x2fe745c0 завершился с кодом 0 (0x0).
+Поток 0x2fed8b80 завершился с кодом 0 (0x0).
+Поток 0x2ff225c0 завершился с кодом 0 (0x0).
+Поток 0x2ff2aa10 завершился с кодом 0 (0x0).
+Поток 0x2ff838a0 завершился с кодом 0 (0x0).
+Поток 0x2f8215c0 завершился с кодом 0 (0x0).
+Поток 0x2f83d170 завершился с кодом 0 (0x0).
+Поток 0x2f873b80 завершился с кодом 0 (0x0).
+Поток 0x2f92b000 завершился с кодом 0 (0x0).
+Поток 0x2f9ada10 завершился с кодом 0 (0x0).
+Поток 0x2f9b1000 завершился с кодом 0 (0x0).
+Поток 0x2fa43450 завершился с кодом 0 (0x0).
+Поток 0x2fa49000 завершился с кодом 0 (0x0).
+Поток 0x2f52f450 завершился с кодом 0 (0x0).
+Поток 0x2f550170 завершился с кодом 0 (0x0).
+Поток 0x2f566cf0 завершился с кодом 0 (0x0).
+Поток 0x2f59f000 завершился с кодом 0 (0x0).
+Поток 0x2f6b6b80 завершился с кодом 0 (0x0).
+Поток 0x2f737cf0 завершился с кодом 0 (0x0).
+Поток 0x2f7378a0 завершился с кодом 0 (0x0).
+Поток 0x19ddf5c0 завершился с кодом 0 (0x0).
+Поток 0x19e08a10 завершился с кодом 0 (0x0).
+Поток 0x358ed450 завершился с кодом 0 (0x0).
+Поток 0x35981a10 завершился с кодом 0 (0x0).
+Поток 0x2f665450 завершился с кодом 0 (0x0).
+Поток 0x2f6658a0 завершился с кодом 0 (0x0).
+Поток 0x2f7a3b80 завершился с кодом 0 (0x0).
+Поток 0x2f7a3730 завершился с кодом 0 (0x0).
+Поток 0x2ff22cf0 завершился с кодом 0 (0x0).
+Поток 0x2ff22b80 завершился с кодом 0 (0x0).
+Поток 0x2ff83000 завершился с кодом 0 (0x0).
+Поток 0x2f821cf0 завершился с кодом 0 (0x0).
+Поток 0x2f92bcf0 завершился с кодом 0 (0x0).
+Поток 0x2f92bb80 завершился с кодом 0 (0x0).
+Поток 0x2fa43cf0 завершился с кодом 0 (0x0).
+Поток 0x2fa43b80 завершился с кодом 0 (0x0).
+Поток 0x2f550cf0 завершился с кодом 0 (0x0).
+Поток 0x2f550b80 завершился с кодом 0 (0x0).
+Поток 0x2f665b80 завершился с кодом 0 (0x0).
+Поток 0x2f665a10 завершился с кодом 0 (0x0).
+Поток 0x2fdd62e0 завершился с кодом 0 (0x0).
+Поток 0x2fdd6000 завершился с кодом 0 (0x0).
+Поток 0x2ff22730 завершился с кодом 0 (0x0).
+Поток 0x30021e60 завершился с кодом 0 (0x0).
+Поток 0x2f92be60 завершился с кодом 0 (0x0).
+Поток 0x2f92b450 завершился с кодом 0 (0x0).
+Поток 0x30002000 завершился с кодом 0 (0x0).
+Поток 0x2ff225c0 завершился с кодом 0 (0x0).
+Поток 0x300022e0 завершился с кодом 0 (0x0).
+Поток 0x30002170 завершился с кодом 0 (0x0).
+Поток 0x2f6652e0 завершился с кодом 0 (0x0).
+Поток 0x2f6655c0 завершился с кодом 0 (0x0).
+Поток 0x2ff22e60 завершился с кодом 0 (0x0).
+Поток 0x2fe74000 завершился с кодом 0 (0x0).
+Поток 0x2fd30170 завершился с кодом 0 (0x0).
+Поток 0x2fd30000 завершился с кодом 0 (0x0).
+Поток 0x333cab80 завершился с кодом 0 (0x0).
+Поток 0x333caa10 завершился с кодом 0 (0x0).
+Поток 0x2fe74450 завершился с кодом 0 (0x0).
+Поток 0x2fe742e0 завершился с кодом 0 (0x0).
+Поток 0x2f6b6730 завершился с кодом 0 (0x0).
+Поток 0x2f6b6b80 завершился с кодом 0 (0x0).
+Поток 0x2f665730 завершился с кодом 0 (0x0).
+Поток 0x2f6658a0 завершился с кодом 0 (0x0).
+Поток 0x2f714730 завершился с кодом 0 (0x0).
+Поток 0x300215c0 завершился с кодом 0 (0x0).
+Поток 0x30021730 завершился с кодом 0 (0x0).
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Mono\lib\mono\2.0\mscorlib.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.DirectorModule.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\UnityHoloLens\RuntimeEditor\UnityEngine.HoloLens.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.ImageConversionModule.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.XRModule.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.IMGUIModule.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.TimelineModule.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.UnityWebRequestModule.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\Unity.Locator.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\UnityHoloLens\Editor\UnityEditor.HoloLens.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\UnitySpatialTracking\RuntimeEditor\UnityEngine.SpatialTracking.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\UnityVR\Editor\UnityEditor.VR.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Mono\lib\mono\2.0\Mono.Security.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.UNETModule.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\PlaybackEngines\windowsstandalonesupport\UnityEditor.WindowsStandalone.Extensions.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.VRModule.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.CloudWebServicesModule.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\UnityVR\Editor\UnityEditor.iOS.Extensions.Xcode.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Mono\lib\mono\2.0\Boo.Lang.Compiler.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\Networking\UnityEngine.Networking.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.UnityWebRequestAudioModule.dll
+Unloaded: Модуль: C:\Users\Dima\AppData\Local\Unity\cache\packages\packages.unity.com\com.unity.analytics@2.0.16\UnityEngine.Analytics.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\ExCSS.Unity.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.ClusterRendererModule.dll
+Unloaded: Модуль: C:\Users\Dima\Documents\SKS Images\Library\ScriptAssemblies\Assembly-CSharp.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.UnityWebRequestAssetBundleModule.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Mono\lib\mono\2.0\System.Xml.Linq.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.TLSModule.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.BaselibModule.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.SpatialTrackingModule.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.TerrainModule.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.UIModule.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\Unity.IvyParser.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Mono\lib\mono\2.0\UnityScript.Lang.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.ClusterInputModule.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.SharedInternalsModule.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\TestRunner\net35\unity-custom\nunit.framework.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.UnityConnectModule.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\Unity.Legacy.NRefactory.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\Networking\Editor\UnityEditor.Networking.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.TerrainPhysicsModule.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\GUISystem\Editor\UnityEditor.UI.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEditor.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Mono\lib\mono\2.0\System.Xml.dll
+Unloaded: Модуль: C:\Users\Dima\Documents\SKS Images\Library\ScriptAssemblies\UnityEditor.StandardEvents.dll
+Unloaded: Модуль: C:\Users\Dima\AppData\Local\Unity\cache\packages\packages.unity.com\com.unity.purchasing@2.0.1\Editor\UnityEditor.Purchasing.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.CrashReportingModule.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\UnityGoogleAudioSpatializer\Editor\UnityEditor.GoogleAudioSpatializer.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\TestRunner\UnityEngine.TestRunner.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.FacebookModule.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.ParticlesLegacyModule.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.UnityWebRequestWWWModule.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.TextRenderingModule.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.ParticleSystemModule.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Mono\lib\mono\2.0\I18N.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\UnityGoogleAudioSpatializer\RuntimeEditor\UnityEngine.GoogleAudioSpatializer.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\Unity.Cecil.dll
+Unloaded: Модуль: C:\Program Files (x86)\Microsoft Visual Studio Tools for Unity\15.0\Editor\SyntaxTree.VisualStudio.Unity.Bridge.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\GUISystem\UnityEngine.UI.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.SpriteShapeModule.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.WebModule.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\Unity.DataContract.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\UIAutomation\UnityEngine.UIAutomation.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\TreeEditor\Editor\UnityEditor.TreeEditor.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Mono\lib\mono\2.0\System.Core.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.GameCenterModule.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.UnityAnalyticsModule.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.VehiclesModule.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Mono\lib\mono\2.0\Boo.Lang.Parser.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\UIAutomation\Editor\UnityEditor.UIAutomation.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.AnimationModule.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.Physics2DModule.dll
+Unloaded: Модуль: C:\Users\Dima\AppData\Local\Unity\cache\packages\packages.unity.com\com.unity.purchasing@2.0.1\UnityEngine.Purchasing.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.InputModule.dll
+Unloaded: Модуль: C:\Users\Dima\Documents\SKS Images\Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\Timeline\Editor\UnityEditor.Timeline.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.GridModule.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.UnityWebRequestTextureModule.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\UnitySpatialTracking\Editor\UnityEditor.SpatialTracking.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\PackageManager\Unity\PackageManager\2018.1.1\Unity.PackageManager.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.SpriteMaskModule.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.VideoModule.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\TestRunner\Editor\UnityEditor.TestRunner.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\Unity.SerializationLogic.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.PhysicsModule.dll
+Unloaded: Модуль: C:\Users\Dima\AppData\Local\Unity\cache\packages\packages.unity.com\com.unity.ads@2.0.7\Editor\UnityEditor.Advertisements.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Mono\lib\mono\2.0\System.Configuration.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.AudioModule.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Mono\lib\mono\2.0\UnityScript.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.AIModule.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.AccessibilityModule.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.ClothModule.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.StyleSheetsModule.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.CoreModule.dll
+Unloaded: Модуль: C:\Users\Dima\AppData\Local\Unity\cache\packages\packages.unity.com\com.unity.standardevents@1.0.13\UnityEngine.StandardEvents.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.AssetBundleModule.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\PlaybackEngines\WebGLSupport\UnityEditor.WebGL.Extensions.dll
+Unloaded: Модуль: C:\Users\Dima\AppData\Local\Unity\cache\packages\packages.unity.com\com.unity.analytics@2.0.16\Editor\UnityEditor.Analytics.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.TilemapModule.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.SubstanceModule.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.ARModule.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.JSONSerializeModule.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Mono\lib\mono\2.0\I18N.CJK.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.WindModule.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\Timeline\RuntimeEditor\UnityEngine.Timeline.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Mono\lib\mono\2.0\System.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.UmbraModule.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEditor.Graphs.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.UIElementsModule.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Mono\lib\mono\2.0\Boo.Lang.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.ScreenCaptureModule.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.HotReloadModule.dll
+Unloaded: Модуль: C:\Program Files (x86)\Microsoft Visual Studio Tools for Unity\15.0\Editor\SyntaxTree.VisualStudio.Unity.Messaging.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.PerformanceReportingModule.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\PlaybackEngines\LinuxStandaloneSupport\UnityEditor.LinuxStandalone.Extensions.dll
+Поток 0x2f714e60 завершился с кодом 0 (0x0).
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.AIModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.ARModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.AccessibilityModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.AnimationModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.AssetBundleModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.AudioModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.BaselibModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.ClothModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.CloudWebServicesModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.ClusterInputModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.ClusterRendererModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.CoreModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.CrashReportingModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.DirectorModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.FacebookModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.GameCenterModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.GridModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.HotReloadModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.IMGUIModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.ImageConversionModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.InputModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.JSONSerializeModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.ParticleSystemModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.ParticlesLegacyModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.PerformanceReportingModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.PhysicsModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.Physics2DModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.ScreenCaptureModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.SharedInternalsModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.SpatialTrackingModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.SpriteMaskModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.SpriteShapeModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.StyleSheetsModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.SubstanceModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.TLSModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.TerrainModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.TerrainPhysicsModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.TextRenderingModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.TilemapModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.TimelineModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.UIModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.UIElementsModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.UNETModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.UmbraModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.UnityAnalyticsModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.UnityConnectModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.UnityWebRequestModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.UnityWebRequestAssetBundleModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.UnityWebRequestAudioModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.UnityWebRequestTextureModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.UnityWebRequestWWWModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.VRModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.VehiclesModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.VideoModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.WebModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.WindModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.XRModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEditor.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\Unity.Locator.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Mono\lib\mono\2.0\I18N.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Mono\lib\mono\2.0\I18N.CJK.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Mono\lib\mono\2.0\System.Core.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\Unity.DataContract.dll
+Loaded: Модуль: C:\Users\Dima\Documents\SKS Images\Library\ScriptAssemblies\Assembly-CSharp.dll
+Loaded: Модуль: C:\Users\Dima\Documents\SKS Images\Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll
+Loaded: Модуль: C:\Users\Dima\Documents\SKS Images\Library\ScriptAssemblies\UnityEditor.StandardEvents.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\PackageManager\Unity\PackageManager\2018.1.1\Unity.PackageManager.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\GUISystem\UnityEngine.UI.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\GUISystem\Editor\UnityEditor.UI.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\Networking\UnityEngine.Networking.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\Networking\Editor\UnityEditor.Networking.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\TestRunner\Editor\UnityEditor.TestRunner.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\TestRunner\UnityEngine.TestRunner.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\TestRunner\net35\unity-custom\nunit.framework.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\Timeline\RuntimeEditor\UnityEngine.Timeline.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\Timeline\Editor\UnityEditor.Timeline.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\TreeEditor\Editor\UnityEditor.TreeEditor.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\UIAutomation\UnityEngine.UIAutomation.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\UIAutomation\Editor\UnityEditor.UIAutomation.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\UnityGoogleAudioSpatializer\Editor\UnityEditor.GoogleAudioSpatializer.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\UnityGoogleAudioSpatializer\RuntimeEditor\UnityEngine.GoogleAudioSpatializer.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\UnityHoloLens\Editor\UnityEditor.HoloLens.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\UnityHoloLens\RuntimeEditor\UnityEngine.HoloLens.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\UnitySpatialTracking\Editor\UnityEditor.SpatialTracking.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\UnitySpatialTracking\RuntimeEditor\UnityEngine.SpatialTracking.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\UnityVR\Editor\UnityEditor.VR.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEditor.Graphs.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\PlaybackEngines\WebGLSupport\UnityEditor.WebGL.Extensions.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\PlaybackEngines\LinuxStandaloneSupport\UnityEditor.LinuxStandalone.Extensions.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\PlaybackEngines\windowsstandalonesupport\UnityEditor.WindowsStandalone.Extensions.dll
+Loaded: Модуль: C:\Users\Dima\AppData\Local\Unity\cache\packages\packages.unity.com\com.unity.ads@2.0.7\Editor\UnityEditor.Advertisements.dll
+Loaded: Модуль: C:\Users\Dima\AppData\Local\Unity\cache\packages\packages.unity.com\com.unity.analytics@2.0.16\UnityEngine.Analytics.dll
+Loaded: Модуль: C:\Users\Dima\AppData\Local\Unity\cache\packages\packages.unity.com\com.unity.analytics@2.0.16\Editor\UnityEditor.Analytics.dll
+Loaded: Модуль: C:\Users\Dima\AppData\Local\Unity\cache\packages\packages.unity.com\com.unity.purchasing@2.0.1\UnityEngine.Purchasing.dll
+Loaded: Модуль: C:\Users\Dima\AppData\Local\Unity\cache\packages\packages.unity.com\com.unity.purchasing@2.0.1\Editor\UnityEditor.Purchasing.dll
+Loaded: Модуль: C:\Users\Dima\AppData\Local\Unity\cache\packages\packages.unity.com\com.unity.standardevents@1.0.13\UnityEngine.StandardEvents.dll
+Loaded: Модуль: C:\Program Files (x86)\Microsoft Visual Studio Tools for Unity\15.0\Editor\SyntaxTree.VisualStudio.Unity.Bridge.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\ExCSS.Unity.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Mono\lib\mono\2.0\System.Xml.Linq.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\Unity.Cecil.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\Unity.SerializationLogic.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Mono\lib\mono\2.0\UnityScript.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\Unity.Legacy.NRefactory.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\Unity.IvyParser.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\UnityVR\Editor\UnityEditor.iOS.Extensions.Xcode.dll
+Loaded: Модуль: C:\Program Files (x86)\Microsoft Visual Studio Tools for Unity\15.0\Editor\SyntaxTree.VisualStudio.Unity.Messaging.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Mono\lib\mono\2.0\Boo.Lang.Compiler.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Mono\lib\mono\2.0\Boo.Lang.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Mono\lib\mono\2.0\Boo.Lang.Parser.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Mono\lib\mono\2.0\UnityScript.Lang.dll
+Поток 0x2f7145c0 завершился с кодом 0 (0x0).
+Поток 0x2fc89e60 завершился с кодом 0 (0x0).
+Поток 0x2fc89a10 завершился с кодом 0 (0x0).
+Поток 0x2fc892e0 завершился с кодом 0 (0x0).
+Поток 0x2fc89450 завершился с кодом 0 (0x0).
+Поток 0x2fc89170 завершился с кодом 0 (0x0).
+Поток 0x2fc89000 завершился с кодом 0 (0x0).
+Поток 0x19ddf450 завершился с кодом 0 (0x0).
+Поток 0x19ddf2e0 завершился с кодом 0 (0x0).
+Поток 0x2f59a8a0 завершился с кодом 0 (0x0).
+Поток 0x2f59a730 завершился с кодом 0 (0x0).
+Поток 0x2f6b6000 завершился с кодом 0 (0x0).
+Поток 0x2f6b6450 завершился с кодом 0 (0x0).
+Поток 0x2f665170 завершился с кодом 0 (0x0).
+Поток 0x2fcceb80 завершился с кодом 0 (0x0).
+Поток 0x2fccecf0 завершился с кодом 0 (0x0).
+Поток 0x2fcce8a0 завершился с кодом 0 (0x0).
+Поток 0x2fcce730 завершился с кодом 0 (0x0).
+Поток 0x2f59a450 завершился с кодом 0 (0x0).
+Поток 0x2f59a2e0 завершился с кодом 0 (0x0).
+Поток 0x19ddf8a0 завершился с кодом 0 (0x0).
+Поток 0x19ddf730 завершился с кодом 0 (0x0).
+Поток 0x2f686a10 завершился с кодом 0 (0x0).
+Поток 0x2f6868a0 завершился с кодом 0 (0x0).
+Поток 0x2f9ca170 завершился с кодом 0 (0x0).
+Поток 0x2f9ca000 завершился с кодом 0 (0x0).
+Поток 0x2ff48cf0 завершился с кодом 0 (0x0).
+Поток 0x2f665b80 завершился с кодом 0 (0x0).
+Поток 0x333ca170 завершился с кодом 0 (0x0).
+Поток 0x2ff48e60 завершился с кодом 0 (0x0).
+Поток 0x2f9ca2e0 завершился с кодом 0 (0x0).
+Поток 0x2f9caa10 завершился с кодом 0 (0x0).
+Поток 0x2f9cab80 завершился с кодом 0 (0x0).
+Поток 0x2f686450 завершился с кодом 0 (0x0).
+Поток 0x2f6862e0 завершился с кодом 0 (0x0).
+Поток 0x2f88e170 завершился с кодом 0 (0x0).
+Поток 0x2f88e000 завершился с кодом 0 (0x0).
+Поток 0x2fdad5c0 завершился с кодом 0 (0x0).
+Поток 0x2fdad450 завершился с кодом 0 (0x0).
+Поток 0x2f888a10 завершился с кодом 0 (0x0).
+Поток 0x2f8888a0 завершился с кодом 0 (0x0).
+Поток 0x2f9ca730 завершился с кодом 0 (0x0).
+Поток 0x333ca000 завершился с кодом 0 (0x0).
+Поток 0x2f74f2e0 завершился с кодом 0 (0x0).
+Поток 0x2f7c3cf0 завершился с кодом 0 (0x0).
+Поток 0x2f74f170 завершился с кодом 0 (0x0).
+Поток 0x2f7c3e60 завершился с кодом 0 (0x0).
+Поток 0x30002a10 завершился с кодом 0 (0x0).
+Поток 0x2f88ee60 завершился с кодом 0 (0x0).
+Поток 0x19ddf5c0 завершился с кодом 0 (0x0).
+Поток 0x19ddf450 завершился с кодом 0 (0x0).
+Поток 0x2f7d4a10 завершился с кодом 0 (0x0).
+Поток 0x2f7d48a0 завершился с кодом 0 (0x0).
+Поток 0x2f6dbe60 завершился с кодом 0 (0x0).
+Поток 0x2f6dbcf0 завершился с кодом 0 (0x0).
+Поток 0x2f5922e0 завершился с кодом 0 (0x0).
+Поток 0x2f592170 завершился с кодом 0 (0x0).
+Поток 0x358ed170 завершился с кодом 0 (0x0).
+Поток 0x35981e60 завершился с кодом 0 (0x0).
+Поток 0x300028a0 завершился с кодом 0 (0x0).
+Поток 0x2f714730 завершился с кодом 0 (0x0).
+Поток 0x2f8882e0 завершился с кодом 0 (0x0).
+Поток 0x2f7142e0 завершился с кодом 0 (0x0).
+Поток 0x2f88e2e0 завершился с кодом 0 (0x0).
+Поток 0x2f88e170 завершился с кодом 0 (0x0).
+Поток 0x2f59a000 завершился с кодом 0 (0x0).
+Поток 0x2f59a170 завершился с кодом 0 (0x0).
+Поток 0x2f74f730 завершился с кодом 0 (0x0).
+Поток 0x2f74f8a0 завершился с кодом 0 (0x0).
+Поток 0x2ff47b80 завершился с кодом 0 (0x0).
+Поток 0x2ff47a10 завершился с кодом 0 (0x0).
+Поток 0x2fc90000 завершился с кодом 0 (0x0).
+Поток 0x2f7fe450 завершился с кодом 0 (0x0).
+Поток 0x2f7fe2e0 завершился с кодом 0 (0x0).
+Поток 0x2fc90e60 завершился с кодом 0 (0x0).
+Поток 0x2fc90730 завершился с кодом 0 (0x0).
+Поток 0x2ff47e60 завершился с кодом 0 (0x0).
+Поток 0x2ff47730 завершился с кодом 0 (0x0).
+Поток 0x2f88ecf0 завершился с кодом 0 (0x0).
+Поток 0x2f88e8a0 завершился с кодом 0 (0x0).
+Поток 0x2f59a730 завершился с кодом 0 (0x0).
+Поток 0x2f59a2e0 завершился с кодом 0 (0x0).
+Поток 0x2f6db450 завершился с кодом 0 (0x0).
+Поток 0x2f6db000 завершился с кодом 0 (0x0).
+Поток 0x2f74f000 завершился с кодом 0 (0x0).
+Поток 0x2f7feb80 завершился с кодом 0 (0x0).
+Поток 0x2f68fb80 завершился с кодом 0 (0x0).
+Поток 0x2f68f450 завершился с кодом 0 (0x0).
+Поток 0x2fa1db80 завершился с кодом 0 (0x0).
+Поток 0x2fa1da10 завершился с кодом 0 (0x0).
+Поток 0x333f3170 завершился с кодом 0 (0x0).
+Поток 0x2ff45a10 завершился с кодом 0 (0x0).
+Поток 0x3598f730 завершился с кодом 0 (0x0).
+Поток 0x3598f000 завершился с кодом 0 (0x0).
+Поток 0x2f9bb730 завершился с кодом 0 (0x0).
+Поток 0x2f9bb5c0 завершился с кодом 0 (0x0).
+Поток 0x2f744cf0 завершился с кодом 0 (0x0).
+Поток 0x2f7445c0 завершился с кодом 0 (0x0).
+Поток 0x2fe1e000 завершился с кодом 0 (0x0).
+Поток 0x2ff19b80 завершился с кодом 0 (0x0).
+Поток 0x2fa032e0 завершился с кодом 0 (0x0).
+Поток 0x2fdd6e60 завершился с кодом 0 (0x0).
+Поток 0x2fe0c5c0 завершился с кодом 0 (0x0).
+Поток 0x2fe0c170 завершился с кодом 0 (0x0).
+Поток 0x35981cf0 завершился с кодом 0 (0x0).
+Поток 0x3598fa10 завершился с кодом 0 (0x0).
+Поток 0x333f3a10 завершился с кодом 0 (0x0).
+Поток 0x333f35c0 завершился с кодом 0 (0x0).
+Поток 0x2fc902e0 завершился с кодом 0 (0x0).
+Поток 0x2fdd6b80 завершился с кодом 0 (0x0).
+Поток 0x2fe0c000 завершился с кодом 0 (0x0).
+Поток 0x2fe1eb80 завершился с кодом 0 (0x0).
+Поток 0x2fec9000 завершился с кодом 0 (0x0).
+Поток 0x2ff19a10 завершился с кодом 0 (0x0).
+Поток 0x2ff45000 завершился с кодом 0 (0x0).
+Поток 0x2ff47a10 завершился с кодом 0 (0x0).
+Поток 0x2f88e450 завершился с кодом 0 (0x0).
+Поток 0x2f9bba10 завершился с кодом 0 (0x0).
+Поток 0x2fa1d730 завершился с кодом 0 (0x0).
+Поток 0x2fa1d5c0 завершился с кодом 0 (0x0).
+Поток 0x2f6655c0 завершился с кодом 0 (0x0).
+Поток 0x2f68fe60 завершился с кодом 0 (0x0).
+Поток 0x2f6db170 завершился с кодом 0 (0x0).
+Поток 0x2f714cf0 завершился с кодом 0 (0x0).
+Поток 0x2f744170 завершился с кодом 0 (0x0).
+Поток 0x2f74fa10 завершился с кодом 0 (0x0).
+Поток 0x2f7fea10 завершился с кодом 0 (0x0).
+Поток 0x19ddf450 завершился с кодом 0 (0x0).
+Поток 0x2f7d2b80 завершился с кодом 0 (0x0).
+Поток 0x2f7d2a10 завершился с кодом 0 (0x0).
+Поток 0x2f52e170 завершился с кодом 0 (0x0).
+Поток 0x2fc59a10 завершился с кодом 0 (0x0).
+Поток 0x2f880450 завершился с кодом 0 (0x0).
+Поток 0x2f880000 завершился с кодом 0 (0x0).
+Поток 0x2fa21730 завершился с кодом 0 (0x0).
+Поток 0x2fa212e0 завершился с кодом 0 (0x0).
+Поток 0x300142e0 завершился с кодом 0 (0x0).
+Поток 0x2fe3e8a0 завершился с кодом 0 (0x0).
+Поток 0x2fa1c000 завершился с кодом 0 (0x0).
+Поток 0x2fcbbb80 завершился с кодом 0 (0x0).
+Поток 0x3598f000 завершился с кодом 0 (0x0).
+Поток 0x333ca730 завершился с кодом 0 (0x0).
+Поток 0x30002a10 завершился с кодом 0 (0x0).
+Поток 0x30014e60 завершился с кодом 0 (0x0).
+Поток 0x2fc595c0 завершился с кодом 0 (0x0).
+Поток 0x2fc59170 завершился с кодом 0 (0x0).
+Поток 0x2fcbb8a0 завершился с кодом 0 (0x0).
+Поток 0x2fcbb450 завершился с кодом 0 (0x0).
+Поток 0x2fe0cb80 завершился с кодом 0 (0x0).
+Поток 0x2fe0c2e0 завершился с кодом 0 (0x0).
+Поток 0x2fe3e450 завершился с кодом 0 (0x0).
+Поток 0x2fe3e000 завершился с кодом 0 (0x0).
+Поток 0x2ff192e0 завершился с кодом 0 (0x0).
+Поток 0x2ff45e60 завершился с кодом 0 (0x0).
+Поток 0x2ff472e0 завершился с кодом 0 (0x0).
+Поток 0x2f880e60 завершился с кодом 0 (0x0).
+Поток 0x2f88eb80 завершился с кодом 0 (0x0).
+Поток 0x2f9bbe60 завершился с кодом 0 (0x0).
+Поток 0x2fa03a10 завершился с кодом 0 (0x0).
+Поток 0x2fa1ce60 завершился с кодом 0 (0x0).
+Поток 0x2fa1d170 завершился с кодом 0 (0x0).
+Поток 0x2fa21cf0 завершился с кодом 0 (0x0).
+Поток 0x2f52e000 завершился с кодом 0 (0x0).
+Поток 0x2f59aa10 завершился с кодом 0 (0x0).
+Поток 0x2f68fb80 завершился с кодом 0 (0x0).
+Поток 0x2f68f730 завершился с кодом 0 (0x0).
+Поток 0x2f6db730 завершился с кодом 0 (0x0).
+Поток 0x2f7148a0 завершился с кодом 0 (0x0).
+Поток 0x2f7445c0 завершился с кодом 0 (0x0).
+Поток 0x2f74f8a0 завершился с кодом 0 (0x0).
+Поток 0x2f7d2000 завершился с кодом 0 (0x0).
+Поток 0x2f7fe730 завершился с кодом 0 (0x0).
+Поток 0x2f7ea730 завершился с кодом 0 (0x0).
+Поток 0x2f7ea5c0 завершился с кодом 0 (0x0).
+Поток 0x2f89ccf0 завершился с кодом 0 (0x0).
+Поток 0x358ed450 завершился с кодом 0 (0x0).
+Поток 0x333ca8a0 завершился с кодом 0 (0x0).
+Поток 0x333ca5c0 завершился с кодом 0 (0x0).
+Поток 0x30014730 завершился с кодом 0 (0x0).
+Поток 0x2fc59e60 завершился с кодом 0 (0x0).
+Поток 0x2fcbb5c0 завершился с кодом 0 (0x0).
+Поток 0x2fe0c5c0 завершился с кодом 0 (0x0).
+Поток 0x2fec95c0 завершился с кодом 0 (0x0).
+Поток 0x2fec9450 завершился с кодом 0 (0x0).
+Поток 0x2ff458a0 завершился с кодом 0 (0x0).
+Поток 0x2ff45170 завершился с кодом 0 (0x0).
+Поток 0x2f8805c0 завершился с кодом 0 (0x0).
+Поток 0x2f880450 завершился с кодом 0 (0x0).
+Поток 0x2f89ce60 завершился с кодом 0 (0x0).
+Поток 0x2f89c5c0 завершился с кодом 0 (0x0).
+Поток 0x2f9bb170 завершился с кодом 0 (0x0).
+Поток 0x2fa032e0 завершился с кодом 0 (0x0).
+Поток 0x2fa1da10 завершился с кодом 0 (0x0).
+Поток 0x2fa1d5c0 завершился с кодом 0 (0x0).
+Поток 0x2f52ea10 завершился с кодом 0 (0x0).
+Поток 0x2f52e2e0 завершился с кодом 0 (0x0).
+Поток 0x2f6655c0 завершился с кодом 0 (0x0).
+Поток 0x2f665170 завершился с кодом 0 (0x0).
+Поток 0x2f6db450 завершился с кодом 0 (0x0).
+Поток 0x2f6db2e0 завершился с кодом 0 (0x0).
+Поток 0x2f744730 завершился с кодом 0 (0x0).
+Поток 0x2f74fe60 завершился с кодом 0 (0x0).
+Поток 0x2f74f000 завершился с кодом 0 (0x0).
+Поток 0x2f7d22e0 завершился с кодом 0 (0x0).
+Поток 0x2f7feb80 завершился с кодом 0 (0x0).
+Поток 0x2f7fe2e0 завершился с кодом 0 (0x0).
+Поток 0x2fe3c450 завершился с кодом 0 (0x0).
+Поток 0x30050cf0 завершился с кодом 0 (0x0).
+Поток 0x2f940450 завершился с кодом 0 (0x0).
+Поток 0x2f9402e0 завершился с кодом 0 (0x0).
+Поток 0x2f759a10 завершился с кодом 0 (0x0).
+Поток 0x35981b80 завершился с кодом 0 (0x0).
+Поток 0x30002a10 завершился с кодом 0 (0x0).
+Поток 0x30014450 завершился с кодом 0 (0x0).
+Поток 0x30050000 завершился с кодом 0 (0x0).
+Поток 0x2fc59730 завершился с кодом 0 (0x0).
+Поток 0x2fe0ca10 завершился с кодом 0 (0x0).
+Поток 0x2fe0c450 завершился с кодом 0 (0x0).
+Поток 0x2fec9e60 завершился с кодом 0 (0x0).
+Поток 0x2fa035c0 завершился с кодом 0 (0x0).
+Поток 0x2fa03450 завершился с кодом 0 (0x0).
+Поток 0x333ca5c0 завершился с кодом 0 (0x0).
+Поток 0x333ca450 завершился с кодом 0 (0x0).
+Поток 0x2fc59b80 завершился с кодом 0 (0x0).
+Поток 0x2fc59a10 завершился с кодом 0 (0x0).
+Поток 0x2fec98a0 завершился с кодом 0 (0x0).
+Поток 0x2fec9730 завершился с кодом 0 (0x0).
+Поток 0x2f89c8a0 завершился с кодом 0 (0x0).
+Поток 0x2f89c730 завершился с кодом 0 (0x0).
+Поток 0x2f59a2e0 завершился с кодом 0 (0x0).
+Поток 0x2f59a170 завершился с кодом 0 (0x0).
+Поток 0x2f74f170 завершился с кодом 0 (0x0).
+Поток 0x2f74f000 завершился с кодом 0 (0x0).
+Поток 0x333ca170 завершился с кодом 0 (0x0).
+Поток 0x333ca000 завершился с кодом 0 (0x0).
+Поток 0x2ff45730 завершился с кодом 0 (0x0).
+Поток 0x2ff45450 завершился с кодом 0 (0x0).
+Поток 0x2f940170 завершился с кодом 0 (0x0).
+Поток 0x2f940000 завершился с кодом 0 (0x0).
+Поток 0x2f714a10 завершился с кодом 0 (0x0).
+Поток 0x2f7148a0 завершился с кодом 0 (0x0).
+Поток 0x2fdce5c0 завершился с кодом 0 (0x0).
+Поток 0x2fdce450 завершился с кодом 0 (0x0).
+Поток 0x2f940b80 завершился с кодом 0 (0x0).
+Поток 0x2ff455c0 завершился с кодом 0 (0x0).
+Поток 0x2ff45000 завершился с кодом 0 (0x0).
+Поток 0x2f89c000 завершился с кодом 0 (0x0).
+Поток 0x30002cf0 завершился с кодом 0 (0x0).
+Поток 0x30002b80 завершился с кодом 0 (0x0).
+Поток 0x2f88e000 завершился с кодом 0 (0x0).
+Поток 0x2f89ce60 завершился с кодом 0 (0x0).
+Поток 0x2f64e730 завершился с кодом 0 (0x0).
+Поток 0x2f64e5c0 завершился с кодом 0 (0x0).
+Поток 0x2f64e8a0 завершился с кодом 0 (0x0).
+Поток 0x2f64ea10 завершился с кодом 0 (0x0).
+Поток 0x2f74f2e0 завершился с кодом 0 (0x0).
+Поток 0x2fcca000 завершился с кодом 0 (0x0).
+Поток 0x2f7be2e0 завершился с кодом 0 (0x0).
+Поток 0x2f7be170 завершился с кодом 0 (0x0).
+Поток 0x358ed450 завершился с кодом 0 (0x0).
+Поток 0x35981e60 завершился с кодом 0 (0x0).
+Поток 0x2fdcea10 завершился с кодом 0 (0x0).
+Поток 0x2fdce8a0 завершился с кодом 0 (0x0).
+Поток 0x2f89c450 завершился с кодом 0 (0x0).
+Поток 0x2f89c2e0 завершился с кодом 0 (0x0).
+Поток 0x2f665b80 завершился с кодом 0 (0x0).
+Поток 0x2f665a10 завершился с кодом 0 (0x0).
+Поток 0x2f7142e0 завершился с кодом 0 (0x0).
+Поток 0x2f74f8a0 завершился с кодом 0 (0x0).
+Поток 0x2ff34450 завершился с кодом 0 (0x0).
+Поток 0x2ff342e0 завершился с кодом 0 (0x0).
+Поток 0x2f7d2b80 завершился с кодом 0 (0x0).
+Поток 0x2f7d2730 завершился с кодом 0 (0x0).
+Поток 0x2f6d0e60 завершился с кодом 0 (0x0).
+Поток 0x2f74f450 завершился с кодом 0 (0x0).
+Поток 0x2f590e60 завершился с кодом 0 (0x0).
+Поток 0x2f650000 завершился с кодом 0 (0x0).
+Поток 0x2f590a10 завершился с кодом 0 (0x0).
+Поток 0x2f5908a0 завершился с кодом 0 (0x0).
+Поток 0x2f88ee60 завершился с кодом 0 (0x0).
+Поток 0x2fdce170 завершился с кодом 0 (0x0).
+Поток 0x2f6658a0 завершился с кодом 0 (0x0).
+Поток 0x2f665730 завершился с кодом 0 (0x0).
+Поток 0x2f52cb80 завершился с кодом 0 (0x0).
+Поток 0x2fdce450 завершился с кодом 0 (0x0).
+Поток 0x2fdce000 завершился с кодом 0 (0x0).
+Поток 0x300028a0 завершился с кодом 0 (0x0).
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\Unity.UNetWeaver.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\Unity.Cecil.Pdb.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\Unity.Cecil.Mdb.dll
+Поток 0x2f59ae60 завершился с кодом 0 (0x0).
+Поток 0x2f8b2a10 завершился с кодом 0 (0x0).
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\Timeline\Editor\UnityEditor.Timeline.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\Unity.IvyParser.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\Networking\Editor\UnityEditor.Networking.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.ParticlesLegacyModule.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.ClusterInputModule.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Mono\lib\mono\2.0\System.dll
+Unloaded: Модуль: C:\Users\Dima\AppData\Local\Unity\cache\packages\packages.unity.com\com.unity.ads@2.0.7\Editor\UnityEditor.Advertisements.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.UNETModule.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\TestRunner\Editor\UnityEditor.TestRunner.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.ParticleSystemModule.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.TerrainPhysicsModule.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\Unity.Cecil.dll
+Unloaded: Модуль: C:\Users\Dima\AppData\Local\Unity\cache\packages\packages.unity.com\com.unity.analytics@2.0.16\Editor\UnityEditor.Analytics.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.ARModule.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.StyleSheetsModule.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.ImageConversionModule.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Mono\lib\mono\2.0\System.Configuration.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.UnityWebRequestAssetBundleModule.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\Unity.Legacy.NRefactory.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Mono\lib\mono\2.0\UnityScript.Lang.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.AccessibilityModule.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.UnityWebRequestModule.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Mono\lib\mono\2.0\I18N.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\Unity.Locator.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\UnityVR\Editor\UnityEditor.iOS.Extensions.Xcode.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\PlaybackEngines\LinuxStandaloneSupport\UnityEditor.LinuxStandalone.Extensions.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Mono\lib\mono\2.0\UnityScript.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\Timeline\RuntimeEditor\UnityEngine.Timeline.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.CrashReportingModule.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.TilemapModule.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.ScreenCaptureModule.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.GameCenterModule.dll
+Unloaded: Модуль: C:\Program Files (x86)\Microsoft Visual Studio Tools for Unity\15.0\Editor\SyntaxTree.VisualStudio.Unity.Bridge.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.SubstanceModule.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.CloudWebServicesModule.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\TestRunner\UnityEngine.TestRunner.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\Unity.SerializationLogic.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.Physics2DModule.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEditor.Graphs.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.FacebookModule.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.JSONSerializeModule.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Mono\lib\mono\2.0\System.Core.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\PlaybackEngines\windowsstandalonesupport\UnityEditor.WindowsStandalone.Extensions.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\UnityVR\Editor\UnityEditor.VR.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.UnityWebRequestWWWModule.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.AudioModule.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.ClusterRendererModule.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.UnityWebRequestAudioModule.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.ClothModule.dll
+Unloaded: Модуль: C:\Users\Dima\Documents\SKS Images\Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.UmbraModule.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\UIAutomation\UnityEngine.UIAutomation.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.TerrainModule.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Mono\lib\mono\2.0\System.Xml.Linq.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.UnityAnalyticsModule.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\ExCSS.Unity.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.UnityConnectModule.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\Unity.UNetWeaver.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.XRModule.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\Unity.DataContract.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.AnimationModule.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.BaselibModule.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\TreeEditor\Editor\UnityEditor.TreeEditor.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.AssetBundleModule.dll
+Unloaded: Модуль: C:\Users\Dima\AppData\Local\Unity\cache\packages\packages.unity.com\com.unity.purchasing@2.0.1\Editor\UnityEditor.Purchasing.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\UnitySpatialTracking\Editor\UnityEditor.SpatialTracking.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\Unity.Cecil.Mdb.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\Networking\UnityEngine.Networking.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\GUISystem\UnityEngine.UI.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.PhysicsModule.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\UnityHoloLens\RuntimeEditor\UnityEngine.HoloLens.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.HotReloadModule.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Mono\lib\mono\2.0\System.Xml.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Mono\lib\mono\2.0\Boo.Lang.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.TimelineModule.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\Unity.Cecil.Pdb.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.DirectorModule.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.IMGUIModule.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\PackageManager\Unity\PackageManager\2018.1.1\Unity.PackageManager.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Mono\lib\mono\2.0\Boo.Lang.Parser.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.SpriteShapeModule.dll
+Unloaded: Модуль: C:\Users\Dima\Documents\SKS Images\Library\ScriptAssemblies\UnityEditor.StandardEvents.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.UIModule.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\UnityGoogleAudioSpatializer\Editor\UnityEditor.GoogleAudioSpatializer.dll
+Unloaded: Модуль: C:\Users\Dima\AppData\Local\Unity\cache\packages\packages.unity.com\com.unity.standardevents@1.0.13\UnityEngine.StandardEvents.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.SpatialTrackingModule.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\TestRunner\net35\unity-custom\nunit.framework.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.UIElementsModule.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.GridModule.dll
+Unloaded: Модуль: C:\Program Files (x86)\Microsoft Visual Studio Tools for Unity\15.0\Editor\SyntaxTree.VisualStudio.Unity.Messaging.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.TLSModule.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.VRModule.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\UnityGoogleAudioSpatializer\RuntimeEditor\UnityEngine.GoogleAudioSpatializer.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Mono\lib\mono\2.0\mscorlib.dll
+Unloaded: Модуль: C:\Users\Dima\Documents\SKS Images\Library\ScriptAssemblies\Assembly-CSharp.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.VideoModule.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.PerformanceReportingModule.dll
+Unloaded: Модуль: C:\Users\Dima\AppData\Local\Unity\cache\packages\packages.unity.com\com.unity.analytics@2.0.16\UnityEngine.Analytics.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.WindModule.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.TextRenderingModule.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.SpriteMaskModule.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEditor.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.SharedInternalsModule.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.CoreModule.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.UnityWebRequestTextureModule.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.VehiclesModule.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\UnityHoloLens\Editor\UnityEditor.HoloLens.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Mono\lib\mono\2.0\Boo.Lang.Compiler.dll
+Unloaded: Модуль: C:\Users\Dima\AppData\Local\Unity\cache\packages\packages.unity.com\com.unity.purchasing@2.0.1\UnityEngine.Purchasing.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\UnitySpatialTracking\RuntimeEditor\UnityEngine.SpatialTracking.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\PlaybackEngines\WebGLSupport\UnityEditor.WebGL.Extensions.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.InputModule.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\GUISystem\Editor\UnityEditor.UI.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.AIModule.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\UIAutomation\Editor\UnityEditor.UIAutomation.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Mono\lib\mono\2.0\I18N.CJK.dll
+Unloaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.WebModule.dll
+Поток 0x30002b80 завершился с кодом 0 (0x0).
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.AIModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.ARModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.AccessibilityModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.AnimationModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.AssetBundleModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.AudioModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.BaselibModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.ClothModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.CloudWebServicesModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.ClusterInputModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.ClusterRendererModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.CoreModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.CrashReportingModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.DirectorModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.FacebookModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.GameCenterModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.GridModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.HotReloadModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.IMGUIModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.ImageConversionModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.InputModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.JSONSerializeModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.ParticleSystemModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.ParticlesLegacyModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.PerformanceReportingModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.PhysicsModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.Physics2DModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.ScreenCaptureModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.SharedInternalsModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.SpatialTrackingModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.SpriteMaskModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.SpriteShapeModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.StyleSheetsModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.SubstanceModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.TLSModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.TerrainModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.TerrainPhysicsModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.TextRenderingModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.TilemapModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.TimelineModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.UIModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.UIElementsModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.UNETModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.UmbraModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.UnityAnalyticsModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.UnityConnectModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.UnityWebRequestModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.UnityWebRequestAssetBundleModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.UnityWebRequestAudioModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.UnityWebRequestTextureModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.UnityWebRequestWWWModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.VRModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.VehiclesModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.VideoModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.WebModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.WindModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.XRModule.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEditor.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\Unity.Locator.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Mono\lib\mono\2.0\I18N.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Mono\lib\mono\2.0\I18N.CJK.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Mono\lib\mono\2.0\System.Core.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\Unity.DataContract.dll
+Loaded: Модуль: C:\Users\Dima\Documents\SKS Images\Library\ScriptAssemblies\Assembly-CSharp.dll
+Loaded: Модуль: C:\Users\Dima\Documents\SKS Images\Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll
+Loaded: Модуль: C:\Users\Dima\Documents\SKS Images\Library\ScriptAssemblies\UnityEditor.StandardEvents.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\PackageManager\Unity\PackageManager\2018.1.1\Unity.PackageManager.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\GUISystem\UnityEngine.UI.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\GUISystem\Editor\UnityEditor.UI.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\Networking\UnityEngine.Networking.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\Networking\Editor\UnityEditor.Networking.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\TestRunner\Editor\UnityEditor.TestRunner.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\TestRunner\UnityEngine.TestRunner.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\TestRunner\net35\unity-custom\nunit.framework.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\Timeline\RuntimeEditor\UnityEngine.Timeline.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\Timeline\Editor\UnityEditor.Timeline.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\TreeEditor\Editor\UnityEditor.TreeEditor.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\UIAutomation\UnityEngine.UIAutomation.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\UIAutomation\Editor\UnityEditor.UIAutomation.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\UnityGoogleAudioSpatializer\Editor\UnityEditor.GoogleAudioSpatializer.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\UnityGoogleAudioSpatializer\RuntimeEditor\UnityEngine.GoogleAudioSpatializer.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\UnityHoloLens\Editor\UnityEditor.HoloLens.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\UnityHoloLens\RuntimeEditor\UnityEngine.HoloLens.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\UnitySpatialTracking\Editor\UnityEditor.SpatialTracking.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\UnitySpatialTracking\RuntimeEditor\UnityEngine.SpatialTracking.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\UnityVR\Editor\UnityEditor.VR.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\UnityEditor.Graphs.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\PlaybackEngines\WebGLSupport\UnityEditor.WebGL.Extensions.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\PlaybackEngines\LinuxStandaloneSupport\UnityEditor.LinuxStandalone.Extensions.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\PlaybackEngines\windowsstandalonesupport\UnityEditor.WindowsStandalone.Extensions.dll
+Loaded: Модуль: C:\Users\Dima\AppData\Local\Unity\cache\packages\packages.unity.com\com.unity.ads@2.0.7\Editor\UnityEditor.Advertisements.dll
+Loaded: Модуль: C:\Users\Dima\AppData\Local\Unity\cache\packages\packages.unity.com\com.unity.analytics@2.0.16\UnityEngine.Analytics.dll
+Loaded: Модуль: C:\Users\Dima\AppData\Local\Unity\cache\packages\packages.unity.com\com.unity.analytics@2.0.16\Editor\UnityEditor.Analytics.dll
+Loaded: Модуль: C:\Users\Dima\AppData\Local\Unity\cache\packages\packages.unity.com\com.unity.purchasing@2.0.1\UnityEngine.Purchasing.dll
+Loaded: Модуль: C:\Users\Dima\AppData\Local\Unity\cache\packages\packages.unity.com\com.unity.purchasing@2.0.1\Editor\UnityEditor.Purchasing.dll
+Loaded: Модуль: C:\Users\Dima\AppData\Local\Unity\cache\packages\packages.unity.com\com.unity.standardevents@1.0.13\UnityEngine.StandardEvents.dll
+Loaded: Модуль: C:\Program Files (x86)\Microsoft Visual Studio Tools for Unity\15.0\Editor\SyntaxTree.VisualStudio.Unity.Bridge.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\ExCSS.Unity.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Mono\lib\mono\2.0\System.Xml.Linq.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\Unity.Cecil.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\Unity.SerializationLogic.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Mono\lib\mono\2.0\UnityScript.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\Unity.Legacy.NRefactory.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Managed\Unity.IvyParser.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\UnityVR\Editor\UnityEditor.iOS.Extensions.Xcode.dll
+Loaded: Модуль: C:\Program Files (x86)\Microsoft Visual Studio Tools for Unity\15.0\Editor\SyntaxTree.VisualStudio.Unity.Messaging.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Mono\lib\mono\2.0\Boo.Lang.Compiler.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Mono\lib\mono\2.0\Boo.Lang.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Mono\lib\mono\2.0\Boo.Lang.Parser.dll
+Loaded: Модуль: C:\Program Files\Unity\Editor\Data\Mono\lib\mono\2.0\UnityScript.Lang.dll
+Поток 0x2f714170 завершился с кодом 0 (0x0).
+Поток 0x30002cf0 завершился с кодом 0 (0x0).
+Поток 0x2f714000 завершился с кодом 0 (0x0).
+Поток 0x2f8b2e60 завершился с кодом 0 (0x0).
+Поток 0x2fde3450 завершился с кодом 0 (0x0).
+Поток 0x2fde32e0 завершился с кодом 0 (0x0).
+Поток 0x333caa10 завершился с кодом 0 (0x0).
+Поток 0x2fde3170 завершился с кодом 0 (0x0).
+Поток 0x2f805a10 завершился с кодом 0 (0x0).
+Поток 0x2f8058a0 завершился с кодом 0 (0x0).
+Поток 0x2f805730 завершился с кодом 0 (0x0).
+Поток 0x2f8055c0 завершился с кодом 0 (0x0).
+Поток 0x2f805450 завершился с кодом 0 (0x0).
+Поток 0x2f567cf0 завершился с кодом 0 (0x0).
+Поток 0x2f5672e0 завершился с кодом 0 (0x0).
+Поток 0x2f6fca10 завершился с кодом 0 (0x0).
+Поток 0x2ff0e000 завершился с кодом 0 (0x0).
+Поток 0x2f7e35c0 завершился с кодом 0 (0x0).
+Поток 0x2fcc52e0 завершился с кодом 0 (0x0).
+Поток 0x2f5538a0 завершился с кодом 0 (0x0).
+Поток 0x2f9315c0 завершился с кодом 0 (0x0).
+Поток 0x2f71fb80 завершился с кодом 0 (0x0).
+Поток 0x2f74e8a0 завершился с кодом 0 (0x0).
+Поток 0x2f74e170 завершился с кодом 0 (0x0).
+Поток 0x2f776170 завершился с кодом 0 (0x0).
+Поток 0x2f5b4a10 завершился с кодом 0 (0x0).
+Поток 0x359818a0 завершился с кодом 0 (0x0).
+Поток 0x333ca5c0 завершился с кодом 0 (0x0).
+Поток 0x2fcc5a10 завершился с кодом 0 (0x0).
+Поток 0x2fde3e60 завершился с кодом 0 (0x0).
+Поток 0x2ff0e450 завершился с кодом 0 (0x0).
+Поток 0x2f805170 завершился с кодом 0 (0x0).
+Поток 0x2f931450 завершился с кодом 0 (0x0).
+Поток 0x2f9b4a10 завершился с кодом 0 (0x0).
+Поток 0x2f5535c0 завершился с кодом 0 (0x0).
+Поток 0x2f567a10 завершился с кодом 0 (0x0).
+Поток 0x2f5b4450 завершился с кодом 0 (0x0).
+Поток 0x2f5e08a0 завершился с кодом 0 (0x0).
+Поток 0x2f6fc450 завершился с кодом 0 (0x0).
+Поток 0x2f71f8a0 завершился с кодом 0 (0x0).
+Поток 0x2f74e450 завершился с кодом 0 (0x0).
+Поток 0x2f7768a0 завершился с кодом 0 (0x0).
+Поток 0x2f7e32e0 завершился с кодом 0 (0x0).
+Поток 0x19ddf2e0 завершился с кодом 0 (0x0).
+Поток 0x2f7ff2e0 завершился с кодом 0 (0x0).
+Поток 0x2f792e60 завершился с кодом 0 (0x0).
+Поток 0x2fd2d5c0 завершился с кодом 0 (0x0).
+Поток 0x2ff22b80 завершился с кодом 0 (0x0).
+Поток 0x332558a0 завершился с кодом 0 (0x0).
+Поток 0x2fc8ee60 завершился с кодом 0 (0x0).
+Поток 0x2fcd0b80 завершился с кодом 0 (0x0).
+Поток 0x2fcd0170 завершился с кодом 0 (0x0).
+Поток 0x2f8bee60 завершился с кодом 0 (0x0).
+Поток 0x2f8be450 завершился с кодом 0 (0x0).
+Поток 0x2f581450 завершился с кодом 0 (0x0).
+Поток 0x2f581000 завершился с кодом 0 (0x0).
+Поток 0x2fce8730 завершился с кодом 0 (0x0).
+Поток 0x2fce82e0 завершился с кодом 0 (0x0).
+Поток 0x2f7e4a10 завершился с кодом 0 (0x0).
+Поток 0x2f7e4000 завершился с кодом 0 (0x0).
+Поток 0x2f54fcf0 завершился с кодом 0 (0x0).
+Поток 0x2f54f2e0 завершился с кодом 0 (0x0).
+Поток 0x33255cf0 завершился с кодом 0 (0x0).
+Поток 0x33255170 завершился с кодом 0 (0x0).
+Поток 0x300025c0 завершился с кодом 0 (0x0).
+Поток 0x2fc8e5c0 завершился с кодом 0 (0x0).
+Поток 0x2fcc5450 завершился с кодом 0 (0x0).
+Поток 0x2fcc5000 завершился с кодом 0 (0x0).
+Поток 0x2f8b2730 завершился с кодом 0 (0x0).
+Поток 0x2fde3000 завершился с кодом 0 (0x0).
+Поток 0x333ca000 завершился с кодом 0 (0x0).
+Поток 0x2fce8170 завершился с кодом 0 (0x0).
+Программа "Unity" завершилась с кодом 0 (0x0).
